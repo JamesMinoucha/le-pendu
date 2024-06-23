@@ -1,6 +1,6 @@
 # Le Pendu
 
-Ma participation au concours du serveur discord [Café des devs](https://discord.gg/cafedesdevs) à la création d'un jeu du pendu exotique (le plus créatif possible).
+Ma participation au concours du serveur discord [Café des devs](https://discord.gg/cafedesdevs) concistant à la création d'un jeu du pendu exotique (le plus créatif possible).
 
 ### Utilisation
 - Il y a un exécutable windows fais avec pyinstaller, il n'y a pas besoin d'installer de library de ce que j'ai tester
