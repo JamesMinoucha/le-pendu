@@ -14,3 +14,6 @@ Pour installer les requirements, il suffit juste de faire "pip3 install requirem
 
 ### Installation
 Il faut python :) https://www.python.org/
+
+### Autres
+Le code ce trouve dans le fichier main.py
