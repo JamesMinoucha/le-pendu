@@ -355,7 +355,6 @@ eglise
 ejecter
 elaborer
 elan
-elever
 elire
 eloge
 eloigner
@@ -928,7 +927,6 @@ perdre
 parfait
 perfection
 perforer
-pergola
 periodique
 periode
 permission
