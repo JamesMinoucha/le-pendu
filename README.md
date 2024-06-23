@@ -18,5 +18,8 @@ Le code est sur main.py, il faut python pour l'exécuter avec la console.
 > [!WARNING]  
 > Il est possible que ma participation ne marche pas sur linux
 
+> [!WARNING]  
+> La dernière version de python est nécessaire (3.12)
+
 ### Requirement
 Il faut pillow, je l'utilise pour les images (`pip install pillow` ou `pip3 install pillow` pour linux)
