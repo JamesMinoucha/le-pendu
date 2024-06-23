@@ -262,7 +262,7 @@ defaite
 defendre
 degager
 degat
-degoût
+degout
 degre
 dejeuner
 dejouer
@@ -384,7 +384,6 @@ epuiser
 eriger
 erreur
 escalier
-esclavage
 escorter
 escroc
 espace
@@ -540,7 +539,7 @@ gnocchi
 gonfler
 gorge
 gorille
-goûter
+gouter
 goutte
 grain
 grand
