@@ -17,3 +17,4 @@ Il faut python :) https://www.python.org/
 
 ### Autres
 Le code ce trouve dans le fichier main.py
+En cas de problème pour le tester, je suis sur discord: Jamesfrench_
