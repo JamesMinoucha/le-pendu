@@ -8,6 +8,8 @@ En cas de problème pour tester ma participation, vous pouvez m'ajouter sur disc
 
 ### Utilisation
 Il faut télécharger la version la plus récente [ici](https://github.com/JamesMinoucha/le-pendu/releases/latest).
+
+Le code est sur main.py, il faut python pour l'exécuter avec la console.
 - Vous pouvez l'exécuter avec la console, mais il vous faudra la library nécessaire
 - Il y a un exécutable pour windows fais avec pyinstaller, il n'y a pas besoin d'installer la library
 
