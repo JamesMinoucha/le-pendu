@@ -2,7 +2,7 @@
 
 Ma participation au concours du serveur discord [Café des devs](https://discord.gg/cafedesdevs) concistant à la création d'un jeu du pendu exotique (le plus créatif possible).
 
-![example image of the game](https://github.com/JamesMinoucha/le-pendu/blob/main/resources/image1.png)
+![example image of the game](https://github.com/JamesMinoucha/le-pendu/blob/main/resources/image2.png)
 
 ### Utilisation
 - Il y a un exécutable windows fais avec pyinstaller, il n'y a pas besoin d'installer de library de ce que j'ai tester
